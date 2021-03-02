@@ -10,6 +10,15 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 
     <formatVersion>7</formatVersion>
 	
+    <variables>
+	 <fullscreenfixSubsetname>Choose Emulationstation That's In Use</fullscreenfixSubsetname>
+   </variables>
+   
+	<subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
+        <include name="ES Header" displayName="${ES Header}">./_inc/xml/header.xml</include>
+        <include name="ES Fullscreen" displayName="${ES Fullscreen}">./_inc/xml/fullscreen.xml</include>
+    </subset>
+	
 	<feature supported="carousel">
 		<view name="system">
 		<carousel name="systemcarousel">
@@ -87,8 +96,6 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 			<textColor>FFFFFF</textColor>
 			<iconColor>FFFFFF</iconColor>
 			<fontPath>./_inc/fonts/font.ttf</fontPath>
-			<fontSize>0.027</fontSize>
-			<pos>0 .95</pos>
 		</helpsystem>
 	</view>
     

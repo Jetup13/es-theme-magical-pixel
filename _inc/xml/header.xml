@@ -1,0 +1,21 @@
+<!--
+theme name:     Magical Pixel
+version:        1.0
+author:         Jetup13
+license:        creative commons CC BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/3.0/
+based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt Kennedy, "SimpleBigArt" by Ewzzy, "GBZ-Mod" by tiduscrying
+-->
+
+<theme>
+
+    <formatVersion>7</formatVersion>
+
+    <view name="system, basic, detailed, video">
+		
+		<helpsystem name="help">
+			<fontSize>0.027</fontSize>
+			<pos>0 .95</pos>
+		</helpsystem>
+	</view>
+
+</theme>
