@@ -60,11 +60,11 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
     <textlist name="gamelist">
       <selectorColor>fffffff00</selectorColor>
 	  <selectedColor>FFFFFF</selectedColor>
-	  <primaryColor>828282</primaryColor>
+	  <primaryColor>000000</primaryColor>
 	  <secondaryColor>000066</secondaryColor>
 	  <fontPath>./_inc/fonts/font.ttf</fontPath>
 	  <pos>0.03 0.1</pos>
-	  <size>0.937 0.80</size>
+	  <size>0.937 0.8</size>
 	  <fontSize>0.035</fontSize>
 	  <lineSpacing>1.40</lineSpacing>
 	  </textlist>
@@ -76,11 +76,11 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 	<textlist name="gamelist">
 	  <selectorColor>fffffff00</selectorColor>
 	  <selectedColor>FFFFFF</selectedColor>
-	  <primaryColor>828282</primaryColor>
+	  <primaryColor>000000</primaryColor>
 	  <secondaryColor>000066</secondaryColor>
 	  <fontPath>./_inc/fonts/font.ttf</fontPath>
 	  <pos>0.39 0.03</pos>
-	  <size>0.6 0.95</size>
+	  <size>0.577 0.9</size>
 	  <fontSize>0.035</fontSize>
 	  <lineSpacing>1.50</lineSpacing>
 	  <horizontalMargin>0.01</horizontalMargin>
@@ -152,14 +152,13 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 	<text name="md_name">
       <pos>0.0 0.9</pos>
 	  <fontPath>./_inc/fonts/font.ttf</fontPath>
-      <fontSize>0.035</fontSize>
+      <fontSize>0.04</fontSize>
       <size>1 0.1</size>
 	  <forceUppercase>1</forceUppercase>
       <alignment>center</alignment>
 	  <zIndex>3</zIndex>
-	  <color>FFFFFFaa</color>
+	  <color>FFFFFF</color>
     </text>
 	</view>
-
 
 </theme>
