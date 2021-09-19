@@ -19,7 +19,7 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 	<subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
         <include name="ES Header" displayName="${ES Header}">./_inc/xml/header.xml</include>
         <include name="ES Fullscreen" displayName="${ES Fullscreen}">./_inc/xml/fullscreen.xml</include>
-		<include name="351V" displayName="${351V}">./_inc/xml/fullscreenv.xml</include>
+		<include name="4:3" displayName="${4:3}">./_inc/xml/fullscreenv.xml</include>
     </subset>
 	
 	<!--Hidden-->
